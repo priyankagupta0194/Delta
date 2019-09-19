@@ -17,7 +17,7 @@ function FindProxyForURL(url, host) {
                }
                
                // Terumo
-               if (dnsDomainIs(host, ".hrhec.delta.com"))
+               if (dnsDomainIs(host, "dltqbggat.hrhec.delta.com"))
                {
                               if(url.substring(0,5) == "http:")
                               {
